@@ -18,3 +18,4 @@
 1. [Introduction and Course Overview](c1.md)
 2. [Supervised Learning of Behaviors](c2.md)
 3. [TensorFlow and Neural Nets Review Session](c3.md)
+4. [Introduction to reinforcement learning](c4.md)
